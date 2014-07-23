@@ -1,5 +1,5 @@
 /*
- * This file is part of DellAPI <http://www.contex.me/>.
+ * This file is part of DellAPI <https://github.com/Contex/DellAPI>.
  *
  * DellAPI is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Lesser General Public License as published by
